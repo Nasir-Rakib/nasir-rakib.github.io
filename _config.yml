@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammad_Nasir_Rakib"
+title                    : "Mohammad Nasir Rakib"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "paragraph-no-indent.png"
+  avatar           : "profile.png"
   name             : "Nasir Rakib"
-  pronouns         : # example: "she/her"  
+  pronouns         : he/him # example: "she/her"  
   bio              : "PhD cancdidate in the department of Computer Science and Engineering"
   location         : "Arlington"
   employer         : "University of Texas at Arlington"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nasir-rakib-4a4318193" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Nasir_Rakib"  # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
