@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/workspaces/nasir-rakib.github.io/images/NR.png"
+  avatar           : "profile.png"
   name             : "Nasir Rakib"
   pronouns         : # example: "she/her"  
   bio              : "PhD cancdidate in the department of Computer Science and Engineering"
