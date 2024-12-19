@@ -44,12 +44,12 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
 Working Experience
 ------
 <ul>
-      <li> <p>October 01, 2020  - Present
-          Texas Tech University
-          Graduate Research Assistant</p> </li>
-      <li>August 26, 2019  - September 30, 2020
-          Texas Tech University
-          Graduate Teaching Assistant</li>
+      <li> <p>October 01, 2020  - Present</p>
+         <p>Texas Tech University</p>
+          <p>Graduate Research Assistant</p> </li>
+      <li><p>August 26, 2019  - September 30, 2020</p>
+          <p>Texas Tech University</p>
+          <p>Graduate Teaching Assistant</p></li>
     </ul>
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
 
