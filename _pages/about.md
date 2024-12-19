@@ -24,6 +24,7 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
     </ul>
   </div>
   <div>
+  <h2> </h2>
     <p style="font-weight: bold; color: blue;">Open to HCI internship</p>
   </div>
 </div>
