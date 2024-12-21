@@ -161,10 +161,18 @@ Awards
 
 Organization Involvement
 ------
-<ol>
-  <li>President of Graduate Student Council (GSC), May 2024 - April 2025, UTA</li>
-  <li>Chief Executive Officer, Graduate Student Council (GSC), August 2022 - April 2024, UTA, Arlington, USA</li>
-</ol>
+<ul>
+  <li>
+    <strong>President of Graduate Student Council (GSC)</strong><br/>
+    <em>Duration:</em> May 2024 - April 2025<br/>
+    <em>Institution:</em> The University of Texas at Arlington (UTA)
+  </li>
+  <li>
+    <strong>Chief Executive Officer, Graduate Student Council (GSC)</strong><br/>
+    <em>Duration:</em> August 2022 - April 2024<br/>
+    <em>Institution:</em> The University of Texas at Arlington (UTA), Arlington, USA
+  </li>
+</ul>
 
 Skill/Expertise
 ------
