@@ -148,7 +148,7 @@ Scholarships
 
 Awards
 -------
-<ol>
+<ul>
   <li>Runner-up graduate best paper award by ACRA/AMA (2021)</li>
   <li>Sara Douglas Doctoral Fellowship by International Textile and Apparel Association (2021)</li>
   <li>Sweden-Bangladesh Sponsored Travel Grant (2021)</li>
@@ -157,7 +157,7 @@ Awards
   <li>Helen DeVitt Jones Graduate Fellowship from Graduate School, TTU (2019-2021)</li>
   <li>Top Four Excellent Performance Award by Dansk Mode & Fashion, Sociability, and BGMEA University (2018)</li>
   <li>Engineering College Merit Scholarship by Textile Engineering College</li>
-</ol>
+</ul>
 
 Organization Involvement
 ------
