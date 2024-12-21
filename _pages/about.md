@@ -134,6 +134,40 @@ Publications
   </li>
 </ol>
 
+Scholarships
+------
+<ol>
+  <li>TTU Hammons RHIM Scholarship (2020-2021)</li>
+  <li>TTU Study Abroad Desg Sch (2021)</li>
+  <li>TTU HRM General HS Sch (2019-2021)</li>
+  <li>TTU Devitt Jones GR Fellowship (2019-2021)</li>
+  <li>TTU Schrock RHIM Scholarship (2019)</li>
+  <li>TTU Tully RHIM HS Scholarship (2019)</li>
+  <li>Engineering College Merit Scholarship (2009-2013)</li>
+</ol>
+
+Awards
+-------
+<ol>
+  <li>Runner-up graduate best paper award by ACRA/AMA (2021)</li>
+  <li>Sara Douglas Doctoral Fellowship by International Textile and Apparel Association (2021)</li>
+  <li>Sweden-Bangladesh Sponsored Travel Grant (2021)</li>
+  <li>TTU Pres Doc Ex RA Spring (2020)</li>
+  <li>ORIS GLISSON FELLOWSHIP: Outstanding Beginning Masters Student Award by International Textile and Apparel Association (2020)</li>
+  <li>Helen DeVitt Jones Graduate Fellowship from Graduate School, TTU (2019-2021)</li>
+  <li>Top Four Excellent Performance Award by Dansk Mode & Fashion, Sociability, and BGMEA University (2018)</li>
+  <li>Engineering College Merit Scholarship by Textile Engineering College</li>
+</ol>
+
+Organization Involvement
+------
+<ol>
+  <li>President of Graduate Student Council (GSC), May 2024 - April 2025, UTA</li>
+  <li>Chief Executive Officer, Graduate Student Council (GSC), August 2022 - April 2024, UTA, Arlington, USA</li>
+</ol>
+
+Skill/Expertise
+------
 <!-- For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
 
 <!-- **Markdown generator**
