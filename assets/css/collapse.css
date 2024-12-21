@@ -15,3 +15,36 @@
     display: none;
     padding : 5px;
 }
+/* Basic styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Add pointer cursor and hover animation */
+  li:hover {
+    cursor: pointer; /* Changes the mouse cursor to a hand */
+    color: #007bff;   /* Changes text color on hover */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for color and transform */
+  }
+  
+  li:hover strong {
+    color: #007bff;  /* Change color of the date on hover */
+  }
+  
+  li:hover em {
+    color: #555;  /* Optionally change the color of the job title */
+    font-weight: bold; /* Make the job title bold on hover */
+  }
+  
+  /* Optional: You can add a slight zoom effect */
+  li:hover {
+    transform: scale(1.05); /* Slightly increases size when hovered */
+  }
