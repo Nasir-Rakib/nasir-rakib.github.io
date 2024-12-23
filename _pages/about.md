@@ -84,48 +84,71 @@ Education
 Publications
 ------
 <style>
-    /* Container for the gallery */
-    .gallery-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between; /* Add spacing between items */
-    }
-    
-    /* Each gallery item */
-    .gallery {
-      flex: 1 1 calc(25% - 10px); /* Each item takes 25% of the row minus the margin */
-      margin: 5px;
-      border: 1px solid #ccc;
-      box-sizing: border-box;
-    }
-    
-    /* Adjust for smaller screens */
-    @media (max-width: 800px) {
-      .gallery {
-        flex: 1 1 calc(50% - 10px); /* Two items per row for smaller screens */
-      }
-    }
-    @media (max-width: 500px) {
-      .gallery {
-        flex: 1 1 100%; /* One item per row for very small screens */
-      }
-    }
+   body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-    /* Image inside each gallery */
-    .gallery img {
-      width: 50%;
-      height: auto;
-    }
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px;
+}
 
-    /* Description styling */
-    .desc {
-      padding: 10px;
-      text-align: center;
-    }
+.gallery {
+  flex: 1 1 calc(25% - 10px); /* Each gallery takes 25% width minus spacing */
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.desc {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.desc a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.desc a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 1200px) {
+  .gallery {
+    flex: 1 1 calc(33.33% - 10px); /* 3 items per row on medium screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery {
+    flex: 1 1 calc(50% - 10px); /* 2 items per row on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery {
+    flex: 1 1 100%; /* 1 item per row on very small screens */
+  }
+}
+
   </style>
- <div class="gallery">
-    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">
-      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+ <div class="gallery-container">
+  <div class="gallery">
+    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html">
+      <img src="images/foo-bar-identity.jpg" alt="Image 1">
     </a>
     <div class="desc">
       <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
@@ -135,27 +158,28 @@ Publications
     </div>
   </div>
   <div class="gallery">
-    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">
-      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026">
+      <img src="images/foo-bar-identity.jpg" alt="Image 2">
     </a>
     <div class="desc">
       <strong>Zaman, A., Endow, S., Rakib, M. A. N., & Torres, C.</strong> (2023, July). 
-    BraidFlow: A Flow-annotated Dataset of Kumihimo Braidmaking Activity. 
-    <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 839-855). 
-    <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">Full Paper</a>
+      BraidFlow: A Flow-annotated Dataset of Kumihimo Braidmaking Activity. 
+      <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 839-855). 
+      <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">Full Paper</a>
     </div>
   </div>
   <div class="gallery">
-    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">
-      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027">
+      <img src="images/foo-bar-identity.jpg" alt="Image 3">
     </a>
     <div class="desc">
       <strong>Rakib, M. A. N., Scidmore, J., Ginsberg, J., & Torres, C.</strong> (2023, July). 
-    Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. 
-    <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). 
-    <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
+      Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. 
+      <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). 
+      <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
     </div>
   </div>
+</div>
   <!-- <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">
       <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
@@ -210,7 +234,7 @@ Publications
       <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
     </div>
   </div>
-<!-- <div>
+<div>
 <ol reversed>
   <li>
     <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
