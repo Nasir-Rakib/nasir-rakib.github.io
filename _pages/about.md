@@ -113,7 +113,83 @@ Publications
       <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
     </div>
   </div>
-<div>
+  <div class="gallery">
+    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Zaman, A., Endow, S., Rakib, M. A. N., & Torres, C.</strong> (2023, July). 
+    BraidFlow: A Flow-annotated Dataset of Kumihimo Braidmaking Activity. 
+    <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 839-855). 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">Full Paper</a>
+    </div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Rakib, M. A. N., Scidmore, J., Ginsberg, J., & Torres, C.</strong> (2023, July). 
+    Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. 
+    <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
+    </div> -->
+  <!-- </div> -->
+  <!-- <div class="gallery">
+    <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      An Exploration of Transformative Learning Applied to the Triple Bottom Line of Sustainability for Fashion Consumers. 
+    <em>Sustainability, 15</em>(12), 9300. 
+    <a href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">Full Paper</a>
+    </div> -->
+  <!-- </div>
+  <div class="gallery">
+    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Endow, S., Rakib, M. A. N., Srivastava, A., Rastegarpouyani, S., & Torres, C.</strong> (2022, April). 
+    Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays. 
+    <em>In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</em> (pp. 1-14). 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117" target="_blank">Full Paper</a>
+    </div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
+      Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
+      <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
+      <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
+    </div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
+      Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
+      <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
+      <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
+    </div>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
+      Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
+      <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
+      <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
+    </div>
+  </div>
+<!-- <div>
 <ol reversed>
   <li>
     <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
@@ -164,7 +240,7 @@ Publications
     <a href="https://www.researchgate.net/profile/Syed-Rashedul-Islam/publication/338498008_Mechanical_Properties_of_Weft-Knitted_Spacer_Fabrics_Integrated_with_Silica_Aerogels/links/6419725592cfd54f8418ac11/Mechanical-Properties-of-Weft-Knitted-Spacer-Fabrics-Integrated-with-Silica-Aerogels.pdf" target="_blank">Conference Abstract</a>
   </li>
 </ol>
-</div>
+</div> -->
 
 Scholarships
 ------
