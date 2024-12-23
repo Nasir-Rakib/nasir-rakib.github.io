@@ -103,7 +103,7 @@ Publications
     }
   </style>
  <div class="gallery">
-    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper>
+    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">
       <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">
