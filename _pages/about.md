@@ -83,6 +83,16 @@ Education
 
 Publications
 ------
+<div class="gallery">
+  <a target="_blank" href="images/bio-photo-2.jpg">
+    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc"><strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
+    Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
+    <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a></div>
+</div>
+<div>
 <ol reversed>
   <li>
     <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
@@ -133,6 +143,7 @@ Publications
     <a href="https://www.researchgate.net/profile/Syed-Rashedul-Islam/publication/338498008_Mechanical_Properties_of_Weft-Knitted_Spacer_Fabrics_Integrated_with_Silica_Aerogels/links/6419725592cfd54f8418ac11/Mechanical-Properties-of-Weft-Knitted-Spacer-Fabrics-Integrated-with-Silica-Aerogels.pdf" target="_blank">Conference Abstract</a>
   </li>
 </ol>
+</div>
 
 Scholarships
 ------
