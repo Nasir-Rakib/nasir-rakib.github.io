@@ -84,21 +84,42 @@ Education
 Publications
 ------
 <style>
+    /* Container for the gallery */
+    .gallery-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; /* Add spacing between items */
+    }
+    
+    /* Each gallery item */
     .gallery {
+      flex: 1 1 calc(25% - 10px); /* Each item takes 25% of the row minus the margin */
       margin: 5px;
       border: 1px solid #ccc;
-      float: left;
-      width: auto;
+      box-sizing: border-box;
     }
-    .gallery:hover {
-      border: 1px solid #777;
+    
+    /* Adjust for smaller screens */
+    @media (max-width: 800px) {
+      .gallery {
+        flex: 1 1 calc(50% - 10px); /* Two items per row for smaller screens */
+      }
     }
+    @media (max-width: 500px) {
+      .gallery {
+        flex: 1 1 100%; /* One item per row for very small screens */
+      }
+    }
+
+    /* Image inside each gallery */
     .gallery img {
       width: 100%;
       height: auto;
     }
+
+    /* Description styling */
     .desc {
-      padding: 15px;
+      padding: 10px;
       text-align: center;
     }
   </style>
@@ -133,8 +154,8 @@ Publications
     Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. 
     <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). 
     <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
-    </div> -->
-  <!-- </div> -->
+    </div>
+  </div>
   <!-- <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">
       <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
