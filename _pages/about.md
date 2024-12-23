@@ -103,7 +103,7 @@ Publications
     }
   </style>
  <div class="gallery">
-    <a target="_blank" href="bio-photo-2.jpg">
+    <a target="_blank" href="images/foo-bar-identity.jpg">
       <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">
