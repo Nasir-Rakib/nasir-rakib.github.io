@@ -113,7 +113,7 @@ Publications
 
     /* Image inside each gallery */
     .gallery img {
-      width: 100%;
+      width: 50%;
       height: auto;
     }
 
