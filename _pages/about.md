@@ -83,15 +83,36 @@ Education
 
 Publications
 ------
-<div class="gallery">
-  <a target="_blank" href="bio-photo-2.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc"><strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
-    Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
-    <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
-    <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a></div>
-</div>
+<style>
+    .gallery {
+      margin: 5px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 180px;
+    }
+    .gallery:hover {
+      border: 1px solid #777;
+    }
+    .gallery img {
+      width: 100%;
+      height: auto;
+    }
+    .desc {
+      padding: 15px;
+      text-align: center;
+    }
+  </style>
+ <div class="gallery">
+    <a target="_blank" href="bio-photo-2.jpg">
+      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">
+      <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
+      Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
+      <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
+      <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
+    </div>
+  </div>
 <div>
 <ol reversed>
   <li>
