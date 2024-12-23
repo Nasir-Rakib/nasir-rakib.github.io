@@ -104,7 +104,7 @@ Publications
   </style>
  <div class="gallery">
     <a target="_blank" href="images/foo-bar-identity.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="images/foo-bar-identity.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">
       <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). 
