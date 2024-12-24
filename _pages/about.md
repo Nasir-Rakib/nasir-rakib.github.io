@@ -125,6 +125,11 @@ Publications
 .desc a:hover {
   text-decoration: underline;
 }
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+}
 
 @media (max-width: 1200px) {
   .gallery {
