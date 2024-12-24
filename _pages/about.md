@@ -99,7 +99,7 @@ Publications
 }
 
 .gallery {
-  flex: 1 1 calc(25% - 10px); /* Each gallery takes 25% width minus spacing */
+  flex: 1 1 calc(33.33% - 10px); /* Each gallery takes 25% width minus spacing */
   box-sizing: border-box;
   margin-bottom: 20px;
 }
