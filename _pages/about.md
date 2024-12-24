@@ -81,7 +81,7 @@ Education
 
 
 
-Publications
+Publications (Selected)
 ------
 <style>
    body {
@@ -184,7 +184,7 @@ div.desc {
       <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
     </div>
   </div>
-<div class="gallery">
+<!-- <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
       <img src="images/foo-bar-identity.jpg" alt="Image 3">
     </a>
@@ -194,7 +194,7 @@ div.desc {
     <em>Sustainability, 15</em>(12), 9300. 
     <a href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">Full Paper</a>
     </div>
-  </div>
+  </div> -->
 
   <div class="gallery">
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117">
@@ -217,7 +217,7 @@ div.desc {
     <a href="https://www.mdpi.com/2071-1050/14/5/2505" target="_blank">Full Paper</a>
     </div>
   </div>
-  <div class="gallery">
+  <!-- <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
       <img src="images/foo-bar-identity.jpg" alt="Image 3">
     </a>
@@ -227,7 +227,7 @@ div.desc {
     <em>In International Textile and Apparel Association Annual Conference Proceedings</em> (Vol. 77, No. 1). Iowa State University Digital Press. 
     <a href="https://www.iastatedigitalpress.com/itaa/article/id/9484/" target="_blank">Conference Abstract</a>
     </div>
-  </div>
+  </div> -->
   <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
       <img src="images/foo-bar-identity.jpg" alt="Image 3">
