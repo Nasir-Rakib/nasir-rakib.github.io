@@ -126,7 +126,7 @@ Publications
   text-decoration: underline;
 }
 div.desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
   font-size: 14px;
 }
