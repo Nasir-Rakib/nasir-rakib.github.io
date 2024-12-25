@@ -153,7 +153,7 @@ div.desc {
  <div class="gallery-container">
   <div class="gallery">
     <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html">
-      <img src="images/foo-bar-identity.jpg" alt="Image 1">
+      <img src="images/Clothing.png" alt="Image 1">
     </a>
     <div class="desc">
       Chang, H. J.,<strong> Rakib, M. A. N.</strong>, Foysal, M. K. H., & Chong, J. W. (2024). 
@@ -164,7 +164,7 @@ div.desc {
   </div>
   <div class="gallery">
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026">
-      <img src="images/foo-bar-identity.jpg" alt="Image 2">
+      <img src="images/kumihimodisk.png" alt="Image 2">
     </a>
     <div class="desc">
       Zaman, A., Endow, S.,<strong> Rakib, M. A. N.</strong>, & Torres, C. (2023, July). 
@@ -175,7 +175,7 @@ div.desc {
   </div>
   <div class="gallery">
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
+      <img src="images/Pub.png" alt="Image 3">
     </a>
     <div class="desc">
       <strong>Rakib, M. A. N.</strong>, Scidmore, J., Ginsberg, J., & Torres, C. (2023, July). 
@@ -198,7 +198,7 @@ div.desc {
 
   <div class="gallery">
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
+      <img src="images/Embr.png" alt="Image 3">
     </a>
     <div class="desc">
     Endow, S.,<strong> Rakib, M. A. N.</strong>, Srivastava, A., Rastegarpouyani, S., & Torres, C. (2022, April).
@@ -208,7 +208,7 @@ div.desc {
   </div>
 <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
+      <img src="images/sustain.png" alt="Image 3">
     </a>
     <div class="desc">
     <strong>Rakib, M. A. N.</strong>, Chang, H. J., & Jones, R. P. (2022). 
@@ -230,7 +230,7 @@ div.desc {
   </div> -->
   <div class="gallery">
     <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
+      <img src="images/Silica.png" alt="Image 3">
     </a>
     <div class="desc">
     Rashedul Islam, S. Y. E. D., Weidong, Y. U., Jinhua, J. I. A. N. G., & <strong>Abu Nasir Rakib, Mohammad</strong> (2019). 
