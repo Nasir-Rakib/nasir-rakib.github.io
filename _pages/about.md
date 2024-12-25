@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Making with ordinary materials: Digital Fabrication & E-Textiles"
+# title: "Making with ordinary materials: Digital Fabrication & E-Textiles"
 author_profile: true
 redirect_from: 
   - /about/
