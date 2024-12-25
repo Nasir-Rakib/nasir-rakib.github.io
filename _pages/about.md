@@ -83,163 +83,31 @@ Education
 
 Publications (Selected)
 ------
-<style>
-   body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.gallery-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 10px;
-  padding: 10px;
-}
-
-.gallery {
-  flex: 1 1 calc(33.33% - 10px); /* Each gallery takes 25% width minus spacing */
-  box-sizing: border-box;
-  margin-bottom: 20px;
-}
-
-.gallery img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}
-
-.desc {
-  margin-top: 10px;
-  text-align: center;
-}
-
-.desc a {
-  color: #0073e6;
-  text-decoration: none;
-}
-
-.desc a:hover {
-  text-decoration: underline;
-}
-div.desc {
-  padding: 5px;
-  text-align: center;
-  font-size: 14px;
-}
-
-@media (max-width: 1200px) {
-  .gallery {
-    flex: 1 1 calc(33.33% - 10px); /* 3 items per row on medium screens */
-  }
-}
-
-@media (max-width: 768px) {
-  .gallery {
-    flex: 1 1 calc(50% - 10px); /* 2 items per row on smaller screens */
-  }
-}
-
-@media (max-width: 480px) {
-  .gallery {
-    flex: 1 1 100%; /* 1 item per row on very small screens */
-  }
-}
-
-  </style>
- <div class="gallery-container">
-  <div class="gallery">
-    <a target="_blank" href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html">
-      <img src="images/Clothing.png" alt="Image 1">
-    </a>
-    <div class="desc">
-      Chang, H. J.,<strong> Rakib, M. A. N.</strong>, Foysal, M. K. H., & Chong, J. W. (2024). 
-      Clothing suggestions based on comfort extracted from physiological and emotional parameters. 
-      <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. 
-      <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a>
-    </div>
-  </div>
-  <div class="gallery">
-    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026">
-      <img src="images/kumihimodisk.png" alt="Image 2">
-    </a>
-    <div class="desc">
-      Zaman, A., Endow, S.,<strong> Rakib, M. A. N.</strong>, & Torres, C. (2023, July). 
-      BraidFlow: A Flow-annotated Dataset of Kumihimo Braidmaking Activity. 
-      <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 839-855). 
-      <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">Full Paper</a>
-    </div>
-  </div>
-  <div class="gallery">
-    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027">
-      <img src="images/Pub.png" alt="Image 3">
-    </a>
-    <div class="desc">
-      <strong>Rakib, M. A. N.</strong>, Scidmore, J., Ginsberg, J., & Torres, C. (2023, July). 
-      Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. 
-      <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). 
-      <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a>
-    </div>
-  </div>
-<!-- <div class="gallery">
-    <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
-    </a>
-    <div class="desc">
-      Chang, H. J., <strong>Rakib, N.</strong>, & Min, J. (2023). 
-    An Exploration of Transformative Learning Applied to the Triple Bottom Line of Sustainability for Fashion Consumers. 
-    <em>Sustainability, 15</em>(12), 9300. 
-    <a href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">Full Paper</a>
-    </div>
-  </div> -->
-
-  <div class="gallery">
-    <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117">
-      <img src="images/Embr.png" alt="Image 3">
-    </a>
-    <div class="desc">
-    Endow, S.,<strong> Rakib, M. A. N.</strong>, Srivastava, A., Rastegarpouyani, S., & Torres, C. (2022, April).
-    Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays. <em>In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</em> (pp. 1-14). 
-    <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117" target="_blank">Full Paper</a>
-    </div>
-  </div>
-<div class="gallery">
-    <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/sustain.png" alt="Image 3">
-    </a>
-    <div class="desc">
-    <strong>Rakib, M. A. N.</strong>, Chang, H. J., & Jones, R. P. (2022). 
-    Effective sustainability messages triggering consumer emotion and action: An application of the social cognitive theory and the dual-process model. 
-    <em>Sustainability, 14</em>(5), 2505. 
-    <a href="https://www.mdpi.com/2071-1050/14/5/2505" target="_blank">Full Paper</a>
-    </div>
-  </div>
-  <!-- <div class="gallery">
-    <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/foo-bar-identity.jpg" alt="Image 3">
-    </a>
-    <div class="desc">
-    Chang, H. J., Dokko, J., Min, J., & <strong> Rakib, M. A. N.</strong> (2020, December). 
-    A typology of online shopping consumers and its relation to online shopping perception and obsession. 
-    <em>In International Textile and Apparel Association Annual Conference Proceedings</em> (Vol. 77, No. 1). Iowa State University Digital Press. 
-    <a href="https://www.iastatedigitalpress.com/itaa/article/id/9484/" target="_blank">Conference Abstract</a>
-    </div>
-  </div> -->
-  <div class="gallery">
-    <a target="_blank" href="https://www.mdpi.com/2071-1050/15/12/9300">
-      <img src="images/Silica.png" alt="Image 3">
-    </a>
-    <div class="desc">
-    Rashedul Islam, S. Y. E. D., Weidong, Y. U., Jinhua, J. I. A. N. G., & <strong>Abu Nasir Rakib, Mohammad</strong> (2019). 
-    Mechanical Properties of Weft-Knitted Spacer Fabrics Integrated with Silica Aerogels. 
-    <em>Journal of Donghua University (English Edition), 36</em>(6). 
-    <a href="https://www.researchgate.net/profile/Syed-Rashedul-Islam/publication/338498008_Mechanical_Properties_of_Weft-Knitted_Spacer_Fabrics_Integrated_with_Silica_Aerogels/links/6419725592cfd54f8418ac11/Mechanical-Properties-of-Weft-Knitted-Spacer-Fabrics-Integrated-with-Silica-Aerogels.pdf" target="_blank">Conference Abstract</a>
-    </div>
-  </div>
-</div>
+<ol reversed> 
+<li> <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). Clothing suggestions based on comfort extracted from physiological and emotional parameters. <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a> 
+</li>
+<li> 
+<strong>Zaman, A., Endow, S., Rakib, M. A. N., & Torres, C.</strong> (2023, July). BraidFlow: A Flow-annotated Dataset of Kumihimo Braidmaking Activity. <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 839-855). <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596026" target="_blank">Full Paper</a> 
+</li> 
+<li> 
+<strong>Rakib, M. A. N., Scidmore, J., Ginsberg, J., & Torres, C.</strong> (2023, July). Thermoplastic Kilnforms: Extending Glass Kilnforming Techniques to Thermoplastic Materials using Ontology-Driven Design. <em>In Proceedings of the 2023 ACM Designing Interactive Systems Conference</em> (pp. 263-281). <a href="https://dl.acm.org/doi/abs/10.1145/3563657.3596027" target="_blank">Full Paper</a> 
+</li> 
+<li> 
+<strong>Chang, H. J., Rakib, N., & Min, J.</strong> (2023). An Exploration of Transformative Learning Applied to the Triple Bottom Line of Sustainability for Fashion Consumers. <em>Sustainability, 15</em>(12), 9300. <a href="https://www.mdpi.com/2071-1050/15/12/9300" target="_blank">Full Paper</a> 
+</li>
+ <li> 
+ <strong>Endow, S., Rakib, M. A. N., Srivastava, A., Rastegarpouyani, S., & Torres, C.</strong> (2022, April). Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays. <em>In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</em> (pp. 1-14). <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3502117" target="_blank">Full Paper</a> 
+ </li> 
+ <li> 
+ <strong>Rakib, M. A. N., Chang, H. J., & Jones, R. P.</strong> (2022). Effective sustainability messages triggering consumer emotion and action: An application of the social cognitive theory and the dual-process model. <em>Sustainability, 14</em>(5), 2505. <a href="https://www.mdpi.com/2071-1050/14/5/2505" target="_blank">Full Paper</a> 
+ </li>
+<li>
+<strong>Chang, H. J., Dokko, J., Min, J., & Rakib, M. A. N.</strong> (2020, December). A typology of online shopping consumers and its relation to online shopping perception and obsession. <em>In International Textile and Apparel Association Annual Conference Proceedings</em> (Vol. 77, No. 1). Iowa State University Digital Press. <a href="https://www.iastatedigitalpress.com/itaa/article/id/9484/" target="_blank">Conference Abstract</a> 
+</li> 
+<li> 
+<strong>Rashedul Islam, S. Y. E. D., Weidong, Y. U., Jinhua, J. I. A. N. G., & Abu Nasir Rakib, M. O. H. A. M. M. A. D.</strong> (2019). Mechanical Properties of Weft-Knitted Spacer Fabrics Integrated with Silica Aerogels. <em>Journal of Donghua University (English Edition), 36</em>(6). <a href="https://www.researchgate.net/profile/Syed-Rashedul-Islam/publication/338498008_Mechanical_Properties_of_Weft-Knitted_Spacer_Fabrics_Integrated_with_Silica_Aerogels/links/6419725592cfd54f8418ac11/Mechanical-Properties-of-Weft-Knitted-Spacer-Fabrics-Integrated-with-Silica-Aerogels.pdf" target="_blank">Conference Abstract</a> 
+</li>
+</ol>
 
 [Please click here to see the full list of publication](https://scholar.google.com/citations?hl=en&user=gPfAIVQAAAAJ&view_op=list_works&sortby=pubdate)
 
