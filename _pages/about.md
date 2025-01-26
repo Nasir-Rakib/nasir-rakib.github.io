@@ -159,6 +159,7 @@ Skill/Expertise
 |          ---: |
 | Used Software  | Abaqus |
 | 3D Prototyping|
+|          ---: |
 | Here's this   |
 | And more      |
 
