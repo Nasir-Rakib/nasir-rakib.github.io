@@ -12,7 +12,29 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <p> Each page of the following portfolio contains a brief summary of research projects. Each project page includes a link to the full paper. Please email me if you are interested in any project for future collaboration. </p>
-<embed src="/files/Portfolio_NasirRakib.pdf#page=1" name="pdf-frame" width="800px" height="2100px" type="application/pdf" />
+
+<style>
+  .responsive-embed {
+    width: 100%; /* Set width to 100% of the container */
+    height: 0; /* Initially set height to 0 */
+    padding-bottom: 130%; /* Adjust this value to maintain the aspect ratio (e.g., 130% for tall documents) */
+    position: relative;
+  }
+
+  .responsive-embed embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    border: none; /* Optional: Removes the border */
+  }
+</style>
+
+<div class="responsive-embed">
+  <embed src="/files/Portfolio_NasirRakib.pdf#page=1" name="pdf-frame" type="application/pdf" />
+</div>
+
 <!-- --- -->
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
  -->
