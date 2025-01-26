@@ -5,12 +5,12 @@ excerpt: "Short description of portfolio item number 1<br/><embed src='/files/Po
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can include images, text, or embedded PDFs.
+<!-- This is an item in your portfolio. It can include images, text, or embedded PDFs. -->
 
-### Embedded PDF
+<!-- ### Embedded PDF
 Below is the embedded PDF:  
-<embed src="/files/Portfolio_NasirRakib" width="800px" height="2100px" type="application/pdf" />
+<embed src="/files/paper1.pdf" width="800px" height="2100px" type="application/pdf" /> -->
 
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!-- --- -->
+<!-- 
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
