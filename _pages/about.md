@@ -81,7 +81,7 @@ Education
 
 
 
-Publications (Selected)
+<!-- Publications (Selected)
 ------
 <ol reversed> 
 <li> <strong>Chang, H. J., Rakib, M. A. N., Foysal, M. K. H., & Chong, J. W.</strong> (2024). Clothing suggestions based on comfort extracted from physiological and emotional parameters. <em>International Journal of Clothing Science and Technology, 36</em>(5), 761-775. <a href="https://www.emerald.com/insight/content/doi/10.1108/ijcst-10-2022-0141/full/html" target="_blank">Full Paper</a> 
@@ -109,7 +109,7 @@ Publications (Selected)
 </li>
 </ol>
 
-[Please click here to see the full list of publication](https://scholar.google.com/citations?hl=en&user=gPfAIVQAAAAJ&view_op=list_works&sortby=pubdate)
+[Please click here to see the full list of publication](https://scholar.google.com/citations?hl=en&user=gPfAIVQAAAAJ&view_op=list_works&sortby=pubdate) -->
 
 Scholarships
 ------
@@ -153,10 +153,11 @@ Organization Involvement
 
 Skill/Expertise
 ------
-
+<p> To be added </p>
+<!-- 
 | ![Image 1](Clothing.png) | ![Image 2](Embr.png) | ![Image 3](silica.png) |
 |-----------------------|-----------------------|-----------------------|
-| ![Image 4](images/sustain.png) | ![Image 5](image5.jpg) | ![Image 6](image6.jpg) |
+| ![Image 4](images/sustain.png) | ![Image 5](image5.jpg) | ![Image 6](image6.jpg) | -->
 
 <!-- For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
 
