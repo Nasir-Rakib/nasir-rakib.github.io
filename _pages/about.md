@@ -153,20 +153,21 @@ Organization Involvement
 
 Skill/Expertise
 ------
-<p> To be added </p>
+<!-- <p> To be added </p> -->
 
-| 3D Prototyping|
-|          ---: |
-| Used Software  | Abaqus |
-| 3D Prototyping|
-|          ---: |
-| Here's this   |
-| And more      |
+| Areas      | Tool | Language    |
+| :---        |    :----:   | :---    |
+| 3D Designing & Prototyping     | Adobe Illustrator, Adobe Premiere Pro, Adobe Lightroom, FIGMA | Design, Python, JavaScript, HTML, CSS |
+| 3D Prototyping  | Fusion360, TinkerCAD, OpensCAD, Abaqus | Python, JavaScript, OpenSCAD |
+| Programming | ---        | Python, JavaScript, Node.js, React, HTML, CSS|
+| AR/VR App Development      | Unity   | ARjs (location, marker, and image)   |
+| Digital Fabrication        | Laser Cutting, 3D Printing, SLA Printing, Silicone, Clay Printing    | ---    |
+| Textile and Fashion        | Design Scope Victor, CLO3D    | ---    |
+| Ontology        | Protege    | ---  |
+| Biomaterials        | Scoby Kombucha    | --- |
+|Interaction Design | Responsive and adaptive UIs using materials such as textiles, SMA, leather, glass, plastics, and others.|
 
-<!-- | Syntax      | Description 
-| :---        |    :----:   
-| Header      | Title      
-| Paragraph   | Text          -->
+
 <!-- 
 | ![Image 1](Clothing.png) | ![Image 2](Embr.png) | ![Image 3](silica.png) |
 |-----------------------|-----------------------|-----------------------|
