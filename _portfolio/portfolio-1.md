@@ -1,7 +1,7 @@
 ---
 ---
 title: "Portfolio Item Number 1"
-excerpt: "Short description of portfolio item number 1<br/><embed src='/files/file_name.pdf' width='800px' height='2100px' />"
+excerpt: "Short description of portfolio item number 1<br/><embed src='/files/papaer1.pdf' width='800px' height='2100px' />"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ This is an item in your portfolio. It can include images, text, or embedded PDFs
 
 ### Embedded PDF
 Below is the embedded PDF:  
-<embed src="/files/file_name.pdf" width="800px" height="2100px" type="application/pdf" />
+<embed src="/files/paper1.pdf" width="800px" height="2100px" type="application/pdf" />
 
 ---
 
