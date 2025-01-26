@@ -154,6 +154,18 @@ Organization Involvement
 Skill/Expertise
 ------
 <p> To be added </p>
+
+| 3D Prototyping|
+|          ---: |
+| Used Software  | Abaqus |
+| 3D Prototyping|
+| Here's this   |
+| And more      |
+
+<!-- | Syntax      | Description 
+| :---        |    :----:   
+| Header      | Title      
+| Paragraph   | Text          -->
 <!-- 
 | ![Image 1](Clothing.png) | ![Image 2](Embr.png) | ![Image 3](silica.png) |
 |-----------------------|-----------------------|-----------------------|
