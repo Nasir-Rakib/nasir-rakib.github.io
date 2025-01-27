@@ -178,7 +178,7 @@ Skill/Expertise
     background-color: #f9f9f9;
   }
   tbody tr:hover {
-    background-color: #f1f1f1;
+    background-color:rgb(211, 239, 227);
   }
 </style>
 
