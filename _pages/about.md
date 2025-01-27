@@ -155,17 +155,80 @@ Skill/Expertise
 ------
 <!-- <p> To be added </p> -->
 
-| Areas      | Tool/Language | 
-| :---        |:----  |
-| 3D Designing & Prototyping     | Adobe Illustrator, Adobe Premiere Pro, Adobe Lightroom, FIGMA |
-| 3D Prototyping  | Fusion360, TinkerCAD, OpensCAD, Abaqus |
-| Programming | Python, JavaScript, Node.js, React, HTML, CSS|
-| AR/VR App Development      | Unity, ARjs (location, marker, and image)   |
-| Digital Fabrication        | Laser Cutting, 3D Printing, SLA Printing, Silicone, Clay Printing    |
-| Textile and Fashion        | Design Scope Victor, CLO3D    |
-| Ontology        | Protege    | 
-| Biomaterials        | Scoby Kombucha    |
-|Interaction Design | Responsive and adaptive UIs using materials such as textiles, SMA, leather, glass, plastics, and others.|
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+  thead th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: 2px solid #ddd;
+  }
+  tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Areas</th>
+      <th>Tools/Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3D Designing & Prototyping</td>
+      <td>Adobe Illustrator, Adobe Premiere Pro, Adobe Lightroom, FIGMA</td>
+    </tr>
+    <tr>
+      <td>3D Prototyping</td>
+      <td>Fusion360, TinkerCAD, OpenSCAD, Abaqus</td>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Python, JavaScript, Node.js, React, HTML, CSS</td>
+    </tr>
+    <tr>
+      <td>AR/VR App Development</td>
+      <td>Unity, AR.js (location-based, marker-based, and image-based AR)</td>
+    </tr>
+    <tr>
+      <td>Digital Fabrication</td>
+      <td>Laser Cutting, 3D Printing, SLA Printing, Silicone, Clay Printing</td>
+    </tr>
+    <tr>
+      <td>Textile and Fashion</td>
+      <td>Design Scope Victor, CLO3D</td>
+    </tr>
+    <tr>
+      <td>Ontology</td>
+      <td>Protege</td>
+    </tr>
+    <tr>
+      <td>Biomaterials</td>
+      <td>Scoby Kombucha</td>
+    </tr>
+    <tr>
+      <td>Interaction Design</td>
+      <td>Responsive and adaptive UIs using materials such as textiles, SMA, leather, glass, plastics, and others</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <!-- 
