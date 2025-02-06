@@ -39,26 +39,31 @@ author_profile: true
 </div>
 
 <script>
-  const url = '/files/Portfolio_NasirRakib.pdf'; // Replace with your PDF file path
+  const url = '/files/Portfolio_NasirRakib.pdf'; // Replace with your actual PDF file path
 
   const canvas = document.getElementById('pdfCanvas');
   const ctx = canvas.getContext('2d');
 
   async function renderPDF() {
-    const loadingTask = pdfjsLib.getDocument(url);
-    const pdf = await loadingTask.promise;
-    const page = await pdf.getPage(1);
+    try {
+      const loadingTask = pdfjsLib.getDocument(url);
+      const pdf = await loadingTask.promise;
+      const page = await pdf.getPage(1);
 
-    const viewport = page.getViewport({ scale: 1 });
-    const aspectRatio = viewport.height / viewport.width;
+      const viewport = page.getViewport({ scale: 1 });
 
-    // Resize canvas and container dynamically
-    const canvasContainer = document.querySelector('.responsive-embed');
-    canvasContainer.style.paddingBottom = `${aspectRatio * 100}%`;
-    canvas.width = viewport.width;
-    canvas.height = viewport.height;
+      // Resize canvas and container dynamically
+      const canvasContainer = document.querySelector('.responsive-embed');
+      const aspectRatio = viewport.height / viewport.width;
+      canvasContainer.style.paddingBottom = `${aspectRatio * 100}%`;
 
-    await page.render({ canvasContext: ctx, viewport }).promise;
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+
+      await page.render({ canvasContext: ctx, viewport }).promise;
+    } catch (error) {
+      console.error("Error rendering PDF: ", error);
+    }
   }
 
   renderPDF();
