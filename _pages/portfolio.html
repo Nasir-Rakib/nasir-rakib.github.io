@@ -12,62 +12,86 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <p> Each page of the following portfolio contains a brief summary of research projects. Each project page includes a link to the full paper. Please email me if you are interested in any project for future collaboration. </p>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.15.349/pdf.min.js"></script>
 
-  <style>
-    .responsive-embed {
-      width: 100%;
-      height: 0;
-      padding-bottom: 130%; /* Adjust to maintain aspect ratio */
-      position: relative;
-    }
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="element-braid">
+      <div class="div">
+        <div class="about-me">THERMOPLASTIC PROJECT</div>
+        <p class="expertise-option">
+          <span class="text-wrapper">Interactive Braiding<br /></span>
+          <span class="span"
+            >Manual Kumihimo braiding tool required skilled users but what about interactive tool?<br
+          /></span>
+          <span class="text-wrapper-2">&nbsp;</span>
+        </p>
+        <a
+          href="https://www.figma.com/exit?url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fabs%2F10.1145%2F3563657.3596026"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><p class="p">
+            **A dataset paper was published based on collecting human body responses. Click here for details.
+          </p></a
+        >
+        <div class="description">
+          <p class="about-sentences-or">
+            A wide range of braided fabrics are available and can not be produced with a single tool
+          </p>
+          <div class="UX-DESIGNER-COMPAN">TYPES OF BRAIDED FABRIC</div>
+        </div>
+        <div class="description-2">
+          <p class="about-sentences-or">
+            We developed a tool that can provide visual feedbacks on how to move strands based on the unique design of
+            the fabrics.
+          </p>
+          <div class="UX-DESIGNER-COMPAN">TOOL THAT INTERACT</div>
+        </div>
+        <div class="description-3">
+          <p class="about-sentences-or">
+            The tools can detect and differentiate how beginners braid and how skilled makers braid by analyzing the
+            movement of the strings and disk during braiding.
+          </p>
+          <div class="UX-DESIGNER-COMPAN">FEATURES AND CONSTRUCTION</div>
+        </div>
+        <footer class="footer">
+          <div class="your-name-produc">
+            Nasir
+            Rakib&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Braiding&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;January,
+            2022
+          </div>
+          <img class="line" src="img/line.svg" />
+        </footer>
+        <img class="img" src="img/image.svg" />
+        <div class="group">
+          <div class="overlap-group">
+            <div class="text-wrapper-3">Role 1</div>
+            <img class="image" src="img/image-1.png" />
+          </div>
+        </div>
+        <div class="overlap-wrapper">
+          <div class="overlap-group">
+            <div class="text-wrapper-3">Role 2</div>
+            <img class="group-2" src="img/group-135.png" />
+          </div>
+        </div>
+        <div class="overlap-group-wrapper">
+          <div class="overlap">
+            <div class="text-wrapper-3">Role 3</div>
+            <img class="group-3" src="img/group-126.png" />
+          </div>
+        </div>
+        <div class="about-me-2">PAGE -1</div>
+      </div>
+    </div>
+  </body>
+</html>
 
-    .responsive-embed canvas {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  </style>
-</head>
-<body>
-  <div class="responsive-embed">
-    <canvas id="pdfCanvas"></canvas>
-  </div>
-
-  <script>
-    const url = 'files/Portfolio_NasirRakib.pdf'; // Replace this with your actual file path
-
-    const canvas = document.getElementById('pdfCanvas');
-    const ctx = canvas.getContext('2d');
-
-    async function renderPDF() {
-      try {
-        pdfjsLib.GlobalWorkerOptions.workerSrc =
-          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.15.349/pdf.worker.min.js';
-
-        const loadingTask = pdfjsLib.getDocument(url);
-        const pdf = await loadingTask.promise;
-        const page = await pdf.getPage(1);
-
-        const viewport = page.getViewport({ scale: 1 });
-        const aspectRatio = viewport.height / viewport.width;
-        const canvasContainer = document.querySelector('.responsive-embed');
-
-        canvasContainer.style.paddingBottom = `${aspectRatio * 100}%`;
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
-
-        await page.render({ canvasContext: ctx, viewport }).promise;
-      } catch (error) {
-        console.error("Error rendering PDF: ", error);
-      }
-    }
-
-    renderPDF();
-  </script>
 <!-- --- -->
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
  -->
