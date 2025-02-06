@@ -12,62 +12,62 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <p> Each page of the following portfolio contains a brief summary of research projects. Each project page includes a link to the full paper. Please email me if you are interested in any project for future collaboration. </p>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.15.349/pdf.min.js"></script>
 
-<style>
-  .responsive-embed {
-    width: 100%;
-    height: 0;
-    padding-bottom: 130%; /* Adjust to maintain aspect ratio */
-    position: relative;
-  }
+  <style>
+    .responsive-embed {
+      width: 100%;
+      height: 0;
+      padding-bottom: 130%; /* Adjust to maintain aspect ratio */
+      position: relative;
+    }
 
-  .responsive-embed canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: none;
-  }
-</style>
+    .responsive-embed canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
 </head>
 <body>
-<div class="responsive-embed">
-  <canvas id="pdfCanvas"></canvas>
-</div>
+  <div class="responsive-embed">
+    <canvas id="pdfCanvas"></canvas>
+  </div>
 
-<script>
-  const url = '/files/Portfolio_NasirRakib.pdf'; // Replace with your actual PDF file path
+  <script>
+    const url = 'files/Portfolio_NasirRakib.pdf'; // Replace this with your actual file path
 
-  const canvas = document.getElementById('pdfCanvas');
-  const ctx = canvas.getContext('2d');
+    const canvas = document.getElementById('pdfCanvas');
+    const ctx = canvas.getContext('2d');
 
-  async function renderPDF() {
-    try {
-      const loadingTask = pdfjsLib.getDocument(url);
-      const pdf = await loadingTask.promise;
-      const page = await pdf.getPage(1);
+    async function renderPDF() {
+      try {
+        pdfjsLib.GlobalWorkerOptions.workerSrc =
+          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.15.349/pdf.worker.min.js';
 
-      const viewport = page.getViewport({ scale: 1 });
+        const loadingTask = pdfjsLib.getDocument(url);
+        const pdf = await loadingTask.promise;
+        const page = await pdf.getPage(1);
 
-      // Resize canvas and container dynamically
-      const canvasContainer = document.querySelector('.responsive-embed');
-      const aspectRatio = viewport.height / viewport.width;
-      canvasContainer.style.paddingBottom = `${aspectRatio * 100}%`;
+        const viewport = page.getViewport({ scale: 1 });
+        const aspectRatio = viewport.height / viewport.width;
+        const canvasContainer = document.querySelector('.responsive-embed');
 
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
+        canvasContainer.style.paddingBottom = `${aspectRatio * 100}%`;
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
 
-      await page.render({ canvasContext: ctx, viewport }).promise;
-    } catch (error) {
-      console.error("Error rendering PDF: ", error);
+        await page.render({ canvasContext: ctx, viewport }).promise;
+      } catch (error) {
+        console.error("Error rendering PDF: ", error);
+      }
     }
-  }
 
-  renderPDF();
-</script>
+    renderPDF();
+  </script>
 <!-- --- -->
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
  -->
