@@ -12,8 +12,11 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
  -->
+<!-- 
+ <h4><a name="top"></a><a href="#researchinterests">Research &amp; Development Interests</a> |  <a href="#phdhighlights1">Academic &amp; Research Positions</a> | <a href="#Pubs&amp;serv">Publications &amp; Service</a> | <a href="#education">Education</a> | <a href="#contact">Contact</a> </h4> -->
+
 <!-- ====== -->
-<div style="display: flex; justify-content: space-between;">
+<div  style="display: flex; justify-content: space-between;">
   <div>
     <h2>Research Areas</h2>
     <ul>
@@ -27,7 +30,6 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
   <h2 style="font-weight: bold; color: blue;"> Open to HCI internship opportunity</h2>
     <p></p>
   </div>
-  <a href="#top">Top</a>
 </div>
 
 
