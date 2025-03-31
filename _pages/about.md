@@ -80,7 +80,7 @@ Education
     <em>Institution:</em> Texas Tech University, Lubbock, Texas, USA
   </li>
   <li>
-    <strong>B.Sc. in Textile Engineering</strong><br/>
+    <strong>B.Sc. in Engineering</strong><br/>
     <em>Major:</em> Fabrication<br/>
     <em>Institution:</em> University of Chittagong, Bangladesh
   </li>

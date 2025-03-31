@@ -1,0 +1,11 @@
+.highlight-div {
+    width: 200px;
+    height: 100px;
+    background-color: lightgray;
+    transition: background-color 0.3s ease;
+  }
+  
+  .highlight-div:hover {
+    background-color: yellow;
+  }
+  
