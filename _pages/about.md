@@ -27,7 +27,7 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
       <li>Biomaterials</li>
     </ul>
   </div> -->
-Working Experience
+Experience
 ------
   <h3 style="font-weight: bold; color: blue;">Open to HCI internship opportunity</h3>
   <ul>
