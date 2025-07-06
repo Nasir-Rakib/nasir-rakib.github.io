@@ -139,7 +139,7 @@ Awards
   <li>ORIS GLISSON FELLOWSHIP: Outstanding Beginning Masters Student Award by International Textile and Apparel Association (2020)</li>
   <li>Helen DeVitt Jones Graduate Fellowship from Graduate School, TTU (2019-2021)</li>
   <li>Top Four Excellent Performance Award by Dansk Mode & Fashion, Sociability, and BGMEA University (2018)</li>
-  <li>Engineering College Merit Scholarship by Textile Engineering College</li>
+  <!-- <li>Engineering College Merit Scholarship by Textile Engineering College</li> -->
 </ul>
 <a href="#top">Top</a>
 
