@@ -10,13 +10,13 @@ redirect_from:
 Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/) in the Department of Computer Science & Engineering at the [University of Texas at Arlington](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse). His research focuses on smart textiles, IoT, digital fabrication, and sustainability. He believes the next decade will see significant advances in sustainable and smart textile manufacturing. Since beginning his Ph.D., he has been addressing challenges in smart textile processing and striving to make textile manufacturing more interactive and accessible for HCI enthusiasts. He is eager to collaborate with innovative, interdisciplinary HCI research teams where he can contribute, explore, and engage with creative makers.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
+<h3>Research Areas:</h3> HCI, Digital Fabrication, e-Textiles, Sustainability, Biomaterials
  -->
 <!-- 
  <h4><a name="top"></a><a href="#researchinterests">Research &amp; Development Interests</a> |  <a href="#phdhighlights1">Academic &amp; Research Positions</a> | <a href="#Pubs&amp;serv">Publications &amp; Service</a> | <a href="#education">Education</a> | <a href="#contact">Contact</a> </h4> -->
 
 <!-- ====== -->
-<div  style="display: flex; justify-content: space-between;">
+<!-- <div  style="display: flex; justify-content: space-between;">
   <div>
     <h2>Research Areas</h2>
     <ul>
@@ -25,8 +25,9 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
       <li>Sustainability</li>
       <li>Biomaterials</li>
     </ul>
-  </div>
-  <div>
+  </div> -->
+ Working Experience
+------
   <h2> Working Experience</h2>
   <h3 style="font-weight: bold; color: blue;">Open to HCI internship opportunity</h3>
   <ul>
@@ -41,9 +42,7 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
     <em>Graduate Teaching Assistant</em>
   </li>
 </ul>
-    <p></p>
-  </div>
-</div>
+
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
