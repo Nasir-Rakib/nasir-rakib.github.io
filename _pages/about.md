@@ -28,6 +28,20 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
   </div>
   <div>
   <h2 style="font-weight: bold; color: blue;"> Open to HCI internship opportunity</h2>
+  Working Experience
+------
+  <ul>
+  <li>
+    <strong>October 01, 2020 - Present</strong><br/>
+    Texas Tech University<br/>
+    <em>Graduate Research Assistant</em>
+  </li>
+  <li>
+    <strong>August 26, 2019 - September 30, 2020</strong><br/>
+    Texas Tech University<br/>
+    <em>Graduate Teaching Assistant</em>
+  </li>
+</ul>
     <p></p>
   </div>
 </div>
@@ -46,22 +60,9 @@ Nasir Rakib is a Ph.D. student advised by [Dr. Cesar Torres](http://cearto.com/)
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Working Experience
-------
-  <ul>
-  <li>
-    <strong>October 01, 2020 - Present</strong><br/>
-    Texas Tech University<br/>
-    <em>Graduate Research Assistant</em>
-  </li>
-  <li>
-    <strong>August 26, 2019 - September 30, 2020</strong><br/>
-    Texas Tech University<br/>
-    <em>Graduate Teaching Assistant</em>
-  </li>
-</ul>
 
-<a href="#top">Top</a>
+
+<!-- <a href="#top">Top</a> -->
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
 
 Education
@@ -117,7 +118,7 @@ Education
 
 [Please click here to see the full list of publication](https://scholar.google.com/citations?hl=en&user=gPfAIVQAAAAJ&view_op=list_works&sortby=pubdate) -->
 
-Scholarships
+<!-- Scholarships
 ------
 <ol>
   <li>TTU Hammons RHIM Scholarship (2020-2021)</li>
@@ -128,7 +129,7 @@ Scholarships
   <li>TTU Tully RHIM HS Scholarship (2019)</li>
   <li>Engineering College Merit Scholarship (2009-2013)</li>
 </ol>
-<a href="#top">Top</a>
+<a href="#top">Top</a> -->
 
 Awards
 -------
